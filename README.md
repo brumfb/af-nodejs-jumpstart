@@ -129,7 +129,7 @@ Once the application is running, copy the value for `urls:`, in the case above `
 
 ### Deploying Node.js apps to AppFog
 
-A very useful read is [here](https://www.centurylinkcloud.com/knowledge-base/appfog/deploy-nodejs-application/). This will give you an overview of the general process used to deploy Ruby applications to AppFog.
+A very useful read is [here](https://www.centurylinkcloud.com/knowledge-base/appfog/deploy-nodejs-application/). This will give you an overview of the general process used to deploy Node.js applications to AppFog.
 
 ### Moving forward
 
