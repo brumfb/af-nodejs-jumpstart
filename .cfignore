@@ -6,3 +6,5 @@ README.md
 LICENSE.txt
 *.sublime*
 cf
+tmp
+log
